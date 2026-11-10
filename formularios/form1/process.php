@@ -38,5 +38,3 @@
     
 </body>
 </html>
-
-<form action="process.php" method="post">

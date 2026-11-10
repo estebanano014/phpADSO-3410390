@@ -8,7 +8,7 @@
 </head>
 <body>
     <main class="container">
-        <form action="form1" action="process.php" method="post" >
+        <form action="process.php" method="post" >
             <h2>Regiatro Usuario</h2>
             <div class="campo">
                 <label for="txtNombre"> Nombre:</label>
